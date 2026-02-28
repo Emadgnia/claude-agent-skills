@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deployment Incident Responder"
+  short_description: "Triage and recover failed deploys."
+  default_prompt: "Investigate deployment incidents, isolate root causes, restore service safely, and document corrective actions."

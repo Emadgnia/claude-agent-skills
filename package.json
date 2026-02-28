@@ -1,0 +1,29 @@
+{
+  "name": "claude-agent-skills",
+  "version": "0.1.0",
+  "description": "Install Claude-focused agent skills from this repository using an npx-friendly CLI.",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "claude-agent-skills": "bin/claude-agent-skills.js"
+  },
+  "files": [
+    "bin/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "installer:list": "node bin/claude-agent-skills.js list",
+    "installer:smoke": "bash tests/smoke/skill_installer_smoke.sh"
+  },
+  "keywords": [
+    "claude",
+    "skills",
+    "installer",
+    "npx"
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Brand Content Engine"
+  short_description: "Generate social copy and prompts."
+  default_prompt: "Generate platform-specific social content and image prompts aligned to professional brand voice and campaign goals."

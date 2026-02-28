@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signature Brand Asset Builder"
+  short_description: "Build email signatures and assets."
+  default_prompt: "Create polished signature assets and related brand prompts from user profile details and approved links."

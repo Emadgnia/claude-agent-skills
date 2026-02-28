@@ -1,0 +1,4 @@
+interface:
+  display_name: "Supabase Firebase Migration Planner"
+  short_description: "Plan and stage backend migrations."
+  default_prompt: "Plan migration from Supabase to Firebase with dependency mapping, phased cutover, and rollback safeguards."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Plan Gate Executor"
+  short_description: "Plan, approve, execute by gates."
+  default_prompt: "Create a dated plan, wait for explicit approval, execute gates in order, and log validation evidence."

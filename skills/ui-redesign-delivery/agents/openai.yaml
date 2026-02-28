@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Redesign Delivery"
+  short_description: "Deliver bold production UIs."
+  default_prompt: "Deliver complete UI redesign implementation with distinctive visuals, responsive behavior, and usability-focused structure."

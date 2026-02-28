@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack Ship Troubleshooter"
+  short_description: "Debug, verify, and ship safely."
+  default_prompt: "Diagnose failures, apply targeted fixes, run verification, and prepare safe ship steps with rollback notes."

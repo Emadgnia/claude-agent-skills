@@ -1,0 +1,4 @@
+interface:
+  display_name: "Terminal Toolchain Bootstrapper"
+  short_description: "Fix local CLI toolchain issues."
+  default_prompt: "Diagnose and resolve local CLI and SDK setup issues with reproducible environment checks and remediation steps."

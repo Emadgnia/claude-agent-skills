@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Ops Mobile Web"
+  short_description: "Coordinate web and mobile releases."
+  default_prompt: "Prepare, verify, and track release operations for web and mobile with explicit preflight and post-release checks."

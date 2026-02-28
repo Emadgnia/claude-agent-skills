@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Lifecycle Curator"
+  short_description: "Create and evolve skills safely."
+  default_prompt: "Turn repeated workflows into concise skills, add reusable resources, validate, and update routing docs."

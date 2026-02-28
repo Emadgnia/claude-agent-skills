@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docs Governance Sync Enforcer"
+  short_description: "Keep policy docs in sync."
+  default_prompt: "Synchronize AGENTS, architecture, plans, and tests documentation after workflow or behavior changes."

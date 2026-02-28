@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Note Orchestrator"
+  short_description: "Structure daily and weekly notes."
+  default_prompt: "Generate or update Obsidian daily/weekly notes, preserve links, carry unfinished tasks, and keep consistent structure."

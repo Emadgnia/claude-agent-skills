@@ -1,0 +1,4 @@
+interface:
+  display_name: "Task Title Distiller"
+  short_description: "Create concise task titles."
+  default_prompt: "Generate concise, high-signal task titles from user requests with consistent style and length constraints."

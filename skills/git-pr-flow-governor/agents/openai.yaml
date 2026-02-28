@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git PR Flow Governor"
+  short_description: "Control safe PR and git workflows."
+  default_prompt: "Run safe git and PR workflows with review ordering, risk checks, and explicit approval gates."

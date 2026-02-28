@@ -1,0 +1,4 @@
+interface:
+  display_name: "Firebase Expo Monorepo Builder"
+  short_description: "Build Expo Firebase monorepos reliably."
+  default_prompt: "Scaffold and stabilize Expo plus Firebase monorepos with emulator setup, workspace wiring, and validation."
